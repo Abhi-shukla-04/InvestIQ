@@ -1,0 +1,60 @@
+import React from "react";
+
+function Universe() {
+  return (
+    <div className="container mt-5">
+      <div className="row text-center">
+        <h1 className="text-center">The InvestIQ Universe</h1>
+        <p className="text-center" mt-5>
+          Extend your trading and investment experience even further with our
+          partner platforms
+        </p>
+        <div className="col-4 p-3 mt-5">
+          <img src="media/zerodhaFundhouse.png" className="img-fluid" style={{width:"220px"}}/>
+          <p className="text-muted text-small ">
+            Our asset management venture that is creating simple and transparent
+            index funds to help you save for your goals.
+          </p>
+        </div>
+        <div className="col-4 p-3 mt-5">
+          <img src="media/sensibullLogo.svg" className="img-fluid" style={{width:"220px"}} />
+          <p className="text-muted text-small mt-4">
+            Options trading platform that lets you create strategies, analyze
+            positions, and examine data points like open interest, FII/DII, and
+            more.
+          </p>
+        </div>
+        <div className="col-4 p-3 mt-5">
+          <img src="media/goldenpiLogo.png" className="img-fluid" style={{width:"220px"}} />
+          <p className="text-muted text-small ">
+            Investment research platform that offers detailed insights on
+            stocks, sectors, supply chains, and more.
+          </p>
+        </div>
+        <div className="col-4 p-3 mt-5">
+          <img src="media/streakLogo.png" className="img-fluid" style={{width:"220px"}} />
+          <p className="text-muted text-small mt-2">
+            Systematic trading platform that allows you to create and backtest
+            strategies without coding.
+          </p>
+        </div>
+        <div className="col-4 p-3 mt-5">
+          <img src="media/smallcaseLogo.png" className="img-fluid" style={{width:"220px"}} />
+          <p className="text-muted text-small mt-4">
+            Thematic investing platform that helps you invest in diversified
+            baskets of stocks on ETFs.
+          </p>
+        </div>
+        <div className="col-4 p-3 mt-5">
+          <img src="media/dittoLogo.png" className="img-fluid" style={{width:"150px"}} />
+          <p className="text-muted text-small mt-4">
+            Personalized advice on life and health insurance. No spam and no
+            mis-selling.
+          </p>
+        </div>{" "}
+      </div>
+    </div>
+  );
+}
+
+export default Universe;

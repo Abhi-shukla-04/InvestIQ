@@ -1,0 +1,66 @@
+.nav-link{
+    margin-left:40px;
+}
+
+#supportHero{
+    background:#387ed1;
+    color:white;
+}
+
+#supportHero a{
+    color:white;
+}
+
+#supportWrapper h4{
+    font-size:28px;
+    font-weight:600;
+}
+
+h4{
+   font-size:28px;
+    font-weight:600;
+}
+.support-heading{
+    font-size:46px;
+    line-height:1.4;
+    font-weight:500;
+    margin-bottom:35px;
+}
+
+#supportHero input{
+    width:82%;
+    padding:18px 22px;
+    border:none;
+    border-radius:6px;
+    font-size:18px;
+    color:#666;
+    outline:none;
+}
+
+.support-links{
+    width:82%;
+}
+
+.support-links a{
+    display:inline-block;
+    margin-right:25px;
+    margin-top:18px;
+    text-decoration:underline;
+}
+
+#supportHero h2{
+    font-size:48px;
+    font-weight:600;
+}
+
+#supportHero ol{
+    padding-left:22px;
+}
+
+#supportHero li{
+    margin-bottom:18px;
+}
+
+#supportHero li a{
+    text-decoration:underline;
+}
