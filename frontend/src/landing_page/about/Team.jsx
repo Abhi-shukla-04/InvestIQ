@@ -12,7 +12,7 @@ function Team() {
       >
         <div className="col-6 p-3 text-center">
           <img
-            src="media/nithinKamath.jpg"
+            src="media/Abhinav.jpeg"
             style={{ borderRadius: "100%", width: "50%" }}
           />
           <h4>Abhinav shukla</h4>

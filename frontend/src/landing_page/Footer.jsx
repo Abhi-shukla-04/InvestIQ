@@ -88,47 +88,37 @@ function Footer() {
         </div>
         <div className="mt-5  text-muted">
           <p className="mt-5 fs-5 text-muted">
-            1. Before creating an account, you must treat Abhinav to samosa and
-            chai. It's our most important policy.
-            <br />
-            2. We respect your privacy, but we respect free samosas even more.
-            <br />
-            3. Your password is encrypted. Your chai order is remembered
-            forever.
-            <br />
-            4. We promise not to sell your data... unless someone offers
-            unlimited biryani.
-            <br />
-            5. By signing up, you agree that Abhinav is always right (except
-            during market crashes).
-            <br />
-            6. If our website makes you rich, remember who introduced you. UPI
-            accepted.
-            <br />
-            7. Any profits made using this website require a minimum 10%
-            friendship tax.
-            <br />
-            8. We don't use cookies to track you. We use them to eat with chai.
-            <br />
-            9. Forgot your password? Bring chai first, then we'll think about
-            helping.
-            <br />
-            10. Your first investment should be in samosas. Stocks can wait.
-            <br />
-            11. Market is risky, but skipping breakfast is riskier.
-            <br />
-            12. If you become a billionaire, don't forget Abhinav. He remembers
-            everyone.
-            <br />
-            13. We collect only one important piece of data: Who's bringing the
-            samosas?
-            <br />
-            14. This website runs on React, Bootstrap, JavaScript, and unlimited
-            chai.
-            <br />
-            15. Clicking 'Create Account' confirms you owe Abhinav one chai and
-            two samosas.
-            <br />
+            InvestIQ is a technology-driven investment platform designed to make
+            stock market investing simple, transparent, and accessible for
+            everyone. Whether you're a beginner taking your first step into
+            investing or an experienced trader managing a diversified portfolio,
+            our platform provides the tools and insights needed to make
+            confident financial decisions.
+          </p>
+          <p>
+            Our mission is to empower investors through innovation and
+            simplicity. By combining real-time market data, intuitive portfolio
+            management, advanced analytics, and a seamless user experience,
+            InvestIQ helps users stay informed and focused on achieving their
+            long-term financial goals.
+          </p>
+          <p>
+            At InvestIQ, security, transparency, and reliability are at the core
+            of everything we build.
+          </p>
+          <p>
+            We believe that financial knowledge should be available to everyone.
+            InvestIQ is committed to promoting financial literacy through
+            educational resources, market insights, and easy-to-understand
+            investment tools, enabling users to make smarter decisions in an
+            ever-changing financial landscape.
+          </p>
+          <p>
+            InvestIQ is continuously evolving to meet the needs of modern
+            investors. As we expand our ecosystem with new features, intelligent
+            analytics, and enhanced investment solutions, our goal remains the
+            same—to simplify investing, encourage informed decision-making, and
+            help individuals build a stronger financial future with confidence.
           </p>
         </div>
         <div className="container text-muted fs-6">
